@@ -1,0 +1,5 @@
+Link do git: https://git-scm.com/
+
+Link do GitHub: https://github.com/
+
+O git bash é um terminal extendido para otimizar o uso do git.
